@@ -3,3 +3,4 @@ xgboost>=2.0
 catboost>=1.2
 pandas>=2.2
 numpy>=2.0
+scikit-learn>=1.5
